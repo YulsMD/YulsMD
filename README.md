@@ -7,7 +7,7 @@
 - I have experience in web development full stack.
 - I am responsible, very dedicated and persevering.
 - I like challenge myself to grow up and going to better each day.
-- Currently developing my web portfolio...
+- Currently I working in Vinco 💚
 
 <h3>Languages I use</h3>
 
