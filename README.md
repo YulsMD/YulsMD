@@ -1,33 +1,36 @@
-<h1 align="center">Hello world! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Yul Martínez 👩‍💻👷‍♀️</h1>
+<h1 align="center">Hi! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Yul Martínez 👩‍💻</h1>
 <br />
-<h3>About me:</h3>
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- I'm mechatronics engineer. 👷‍
-- I have experience in web development full stack.
-- I am responsible, very dedicated and persevering.
-- I like challenge myself to grow up and going to better each day.
-- Currently I work in Vinco 💚
+<p>
+  Engineer passionate about technology and with experience in Full Stack Development, venturing as a DevOps apprentice and with a growing interest in Cybersecurity.
+<ul>
+  <li>🌱 I am currently learning DevOps and Cybersecurity.</li>
+  <li>💼 I work in the Full Stack team at Vinco.</li>
+  <li>🎓 Training in cybersecurity course taught by Google.</li>
+  <li>📫 You can contact me at yulissa.mtzd@gmail.com.</li>
+</ul>
+</p>
 
-<h3>Languages I use</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
-![NOSQL](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+<h2>🔧 Habilidades y Tecnologías</h2>
+        <h3>Front-end</h3>
+        <ul>
+            <li><strong>Languages ​​and Frameworks:</strong> JavaScript, TypeScript, React, Next.js</li>
+            <li><strong>Tools and Technologies:</strong> HTML, CSS, Bootstrap, Tailwind, Material UI</li>
+        </ul>
 
-<h3>Some of the technologies I have worked with</h3>
+<h3>Back-end</h3>
+        <ul>
+            <li><strong>Languages ​​and Frameworks:</strong> Node.js, Sequelize, PostgreSQL</li>
+            <li><strong>Tools and Technologies:</strong> Amazon SQS, Amazon SNS, Strapi, Hubspot</li>
+        </ul>
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=563D7C)
-![VSCode](http://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual%20studio%20code&logoColor=61DAFB)
-![Redux](http://img.shields.io/badge/-Redux-222222?style=flat&logo=redux&logoColor=563D7C)
-![Figma](http://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=white)
-![Trello](http://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=gray)
+<h3>DevOps and Cibersecurity</h3>
+        <ul>
+            <li><strong>DevOps:</strong> Variable management in Kubernetes, Permissions in AWS IAM</li>
+            <li><strong>Cibersecurity:</strong> Cybersecurity course by Google </li>
+        </ul>
 
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yulsmd&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
